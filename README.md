@@ -55,7 +55,7 @@ Requisito: Python 3.8 ou superior instalado.
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/gerenciador-tarefas.git
+git clone https://github.com/MedinaLemos07/Gerenciador-de-Tarefas
 
 # 2. Acesse a pasta do projeto
 cd gerenciador-tarefas
@@ -63,8 +63,6 @@ cd gerenciador-tarefas
 # 3. Execute
 python gerenciador.py
 ```
-
-Nenhuma instalação adicional necessária.
 
 ---
 
